@@ -49,7 +49,7 @@ function App() {
           Email Address&nbsp; : <input type='text'></input> <br/>
           Phone Number : <input type='text'></input> <br/>
           <br/>
-          <input type="submit" value="Submit" className="submitbut"></input>
+          <input type="submit" value="SUBMIT" className="submitbut"></input>
         </form>
       </div>
       
